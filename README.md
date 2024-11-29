@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/niru17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/niru17/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/niru17/LeetCode/tree/master/0392-is-subsequence) |
 ## Two Pointers
