@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niru17/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/niru17/LeetCode/tree/master/0217-contains-duplicate) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/niru17/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2058-concatenation-of-array](https://github.com/niru17/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niru17/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/niru17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/niru17/LeetCode/tree/master/0242-valid-anagram) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/niru17/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/niru17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/niru17/LeetCode/tree/master/0242-valid-anagram) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/niru17/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -78,8 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/niru17/LeetCode/tree/master/0392-is-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/niru17/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/niru17/LeetCode/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/niru17/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
