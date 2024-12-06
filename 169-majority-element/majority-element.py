@@ -3,6 +3,7 @@ class Solution:
         countS={}
         for i in nums:
             countS[i]=1+countS.get(i,0)
-            if countS[i]>len(nums)//2:
-                return i
+        for c in countS:
+            if countS[c]>len(nums)//2:
+                return c
         
