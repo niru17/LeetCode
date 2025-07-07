@@ -4,9 +4,10 @@ class Solution:
         for i in nums:
             if i==1:
                 l+=1
-                m=max(m,l)
             else:
                 l=0
+            if l>m:
+                m=l
         return m
 
         
